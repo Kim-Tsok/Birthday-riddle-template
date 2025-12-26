@@ -14,11 +14,12 @@ It was originally made as a personal gift, but has been refactored to be reusabl
 
 ---
 
-## 🍴 How to Use (Important)
+## How to Use (Important)
 
 **This project is meant to be forked.**
 
 ### Step 1: Fork this repository
+
 Click the **Fork** button at the top right of this page.
 
 This creates your own copy of the project.
@@ -28,6 +29,7 @@ This creates your own copy of the project.
 ### Step 2: Customize the content
 
 You can change:
+
 - Birthday messages
 - Riddles and answers
 - Any text shown on the website
@@ -41,6 +43,8 @@ No need to rewrite components unless you want to
 ```bash
 npm install
 npm run dev
+```
 
 **OR**
+
 Deploy it on vercel, netlify, github pages or any means you see fit
